@@ -1,5 +1,5 @@
 House Price Prediction 
-This project is a Machine Learning-based web application that predicts house prices based on various features such as location, square footage, number of rooms, and more. The model is trained on real estate datasets to provide accurate price estimations.
+This is a Machine Learning project that predicts house prices based on various features such as location, square footage, number of rooms, and more. The model is trained on real estate datasets to provide accurate price estimations.
 
 Project Overview
 A web-based ML model that predicts house prices based on input parameters.
